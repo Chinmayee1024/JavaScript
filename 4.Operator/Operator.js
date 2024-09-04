@@ -108,10 +108,16 @@ console.log(!(n>m));//true
 console.log(!(m>n));//true
 
 
+// Ternary Operator(simpler or compact if-else statement)
+// ================
 
 
+//  a?b:c
+// condition? "true output" : "false output"
 
-
+let age=28;
+let result=age>18? "adult" : "not adult"
+console.log(result);
 
 
 
