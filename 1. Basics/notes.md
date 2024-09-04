@@ -13,3 +13,13 @@ About Javascript:
 1.	Javascript was developed by Netscape Corporation in 1996
 2.	Javascript was first known as Livescript, but netscape changed its name to javascript because of java’s popularity.
 3.	Javascript is a programming language used to create functionality in the web page.
+
+
+## COMMENTS IN JAVASCRIPT
+=========================
+
+Part of code which is not executed
+
+---> // this is a single line comment
+---> /* this is a multi-line 
+comment */
