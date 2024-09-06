@@ -8,7 +8,7 @@ JavaScript Variables can be declared in 4 ways:
 --> Using let
 --> Using const
 
-It is considered good programming practice to always declare variables before use.
+It is considered good programming Question to always declare variables before use.
 ## Note
 =========
 The var keyword was used in all JavaScript code from 1995 to 2015.

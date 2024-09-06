@@ -1,4 +1,4 @@
-// Q.1  PRACTICE ALL EVEN NUMBER FROM 0 TO 100.
+// Q.1  Question ALL EVEN NUMBER FROM 0 TO 100.
 
 // for(let i=0;i<=100;i++)
 // {
