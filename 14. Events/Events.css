@@ -1,0 +1,29 @@
+div{
+    display: flex;
+    box-sizing: border-box;
+    height: 250px;
+    width:250px;
+    border: 2px solid black;
+    background: linear-gradient(110deg, rgb(119, 64, 192) 60%, rgb(27, 226, 226) 60%);
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 20px;
+    transform: translate(200px,-40px);
+    padding-left: 80px;
+    background-color: gradient;
+}
+
+#div2{
+    display: flex;
+    box-sizing: border-box;
+    height: 250px;
+    width:250px;
+    border: 2px solid black;
+    background-color: cyan;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 20px;
+    transform: translate(500px,-310px);
+    padding-left: 80px;
+    background: linear-gradient(110deg, yellow 60%, orange 60%);
+}
